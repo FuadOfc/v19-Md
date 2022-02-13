@@ -48,7 +48,7 @@ const defaultMenu = {
 ┃✾ Uptime: *%uptime (%muptime)*
 ┃✾ Database: %rtotalreg dari %totalreg
 ┃✾ Youtube:
-┃✾ https://youtu.be/Sgb5BVOW66Y
+┃✾ https://youtube.com/channel/UCpyDrBUSSJX8CYgtDTbbYnQ
 ┗━━━━━━ꕥ
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
@@ -176,7 +176,7 @@ let handler = async (m, { conn, usedPrefix: _p, command }) => {
              {
              callButton: {
                displayText: '𝚙𝚑𝚘𝚗𝚎 𝚗𝚞𝚖𝚋𝚎𝚛',
-               PhoneNumber: '6288279268363'
+               PhoneNumber: '6285867185837'
              }
 
            },
